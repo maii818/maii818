@@ -31,11 +31,6 @@ Cyber Security student at Alexandria University with hands-on experience in netw
 | **FIFA Player Valuation & Classification** | Regression and classification models (Linear/Polynomial/Ridge/Lasso/KNN/RF/SVR, Logistic Regression/Naive Bayes/SVM) with ensemble methods |
 | **Multi-Building Enterprise Network** | Packet Tracer design across 3 buildings/3 floors with VLANs, HSRP, DHCP, ACLs, and port security |
 
-## GitHub Stats
-
-![Maii's GitHub stats](https://github-readme-stats.vercel.app/api?username=maii818&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maii818&layout=compact&theme=default&hide_border=true)
-
 ## Connect With Me
 
 Email: maiiwalid20@gmail.com
